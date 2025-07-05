@@ -7,6 +7,7 @@ This system simulates automated and manual control of a water tank with alarm an
 ---
 
 ## 🎬 Project Demo
+📌 Click on the image below to watch the full demo video on YouTube.
 
 [![Watch the demo video](https://img.youtube.com/vi/iIhKhjNIBaA/0.jpg)](https://youtu.be/iIhKhjNIBaA)
 
