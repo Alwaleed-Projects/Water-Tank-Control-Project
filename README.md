@@ -29,8 +29,8 @@ This system simulates automated and manual control of a water tank with alarm an
 
 | File | Description |
 |------|-------------|
-| `WaterTank.ACD` | PLC Ladder Logic file (RSLogix Micro) |
-| `WaterTank.MER` | FactoryTalk View ME HMI project |
+| `WaterTank.RSS` | PLC Ladder Logic file (RSLogix Micro) |
+| `WaterTank HMI.med` | FactoryTalk View ME HMI project |
 | `README.md` | Project documentation |
 
 
